@@ -1,5 +1,5 @@
 ---
-title:  "Stellar Social Media Banner Pack"
+title:  "쿠버네티스"
 metadate: "hide"
 categories: [ K8S ]
 image: "/assets/images/stellar.jpg"
