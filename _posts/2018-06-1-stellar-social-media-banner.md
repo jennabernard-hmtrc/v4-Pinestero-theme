@@ -1,8 +1,8 @@
 ---
 title:  "Stellar Social Media Banner Pack"
 metadate: "hide"
-categories: [ Premium, UI, Graphics ]
+categories: [ K8S ]
 image: "/assets/images/stellar.jpg"
-visit: "https://crmrkt.com/jVMvBb"
+visit: ""
 ---
-테스트
+쿠버네티스 테스트
