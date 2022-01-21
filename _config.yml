@@ -5,8 +5,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
 avatar: 'assets/images/sal.jpg'
-disqus: 'smartgram'
 email: 'daeny2@gmail.com'
+# disqus: 'smartgram'
 
 include: ["_pages"]
 permalink: /:title/
