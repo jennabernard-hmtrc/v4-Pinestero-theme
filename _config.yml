@@ -1,11 +1,11 @@
 # Site
-name: 'SmartGram'
-description: 'SmartGram Blog.'
+name: 'HP C-13 Imaging Parameters'
+description: 'A place for shared HP C-13 Imaging Parameters'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
 avatar: 'assets/images/sal.jpg'
-email: 'daeny2@gmail.com'
+email: 'hyperpolarizedmri@ucsf.edu'
 # disqus: 'smartgram'
 
 include: ["_pages"]
