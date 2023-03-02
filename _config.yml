@@ -1,10 +1,10 @@
 # Site
 name: 'HP C-13 Imaging Parameters'
 description: 'A place for shared HP C-13 Imaging Parameters'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/HMTRC-logo-crop.jpg'
+favicon: 'assets/images/HMTRC-logo-crop.jpg'
 baseurl: '/'
-avatar: 'assets/images/sal.jpg'
+avatar: 'assets/images/HMTRC-logo-crop.jpg'
 email: 'hyperpolarizedmri@ucsf.edu'
 # disqus: 'smartgram'
 
