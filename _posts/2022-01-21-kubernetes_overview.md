@@ -1,20 +1,17 @@
 ---
-title:  "쿠버네티스 소개"
-metadate: "hide"
-categories: [Kubernetes, K8S]
+title:  "Calibration Sequences"
+metadate: "Brain2"
+categories: [Brain, Set-up, 7TGE]
 
-image: "/assets/images/kubernetes.png"
+image: "/assets/images/Calibration-Test-image.png"
 visit: ""
 
 toc: true
 toc_sticky: true
  
-date: 2022-01-21
-last_modified_at: 2022-05-19
+date: 2023-03-02
+last_modified_at: 2023-03-19
 ---
 
-쿠버네티스를 소개합니다.
-
-쿠버네티스란?
-
+Input Sequence Parameters
 
